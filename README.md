@@ -1,2 +1,8 @@
-# NextJS_Introduction
-NextJS: a brief introduction
+# NextJS: a brief introduction
+
+## 1. 
+
+## 2.
+
+## 3. 
+
